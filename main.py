@@ -14,4 +14,4 @@ try:
 except:
  os.system('cls')
  print('invaild webhook')
-os. system("pause")
+os.system("pause")
