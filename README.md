@@ -7,9 +7,9 @@ This is a simple Python script to check if a Discord webhook URL is valid or not
 - requests library
 
 ## Usage
-1. Clone the repository or download the `webhook_checker.py` file.
+1. Clone the repository or download the `main.py` file.
 2. Install the requests library by running `pip install requests` in your command line.
-3. Run `python webhook_checker.py` in your command line.
+3. Run `python main.py` in your command line.
 4. Enter the webhook URL you want to check when prompted.
 5. The script will output whether the webhook URL is valid or not.
 
