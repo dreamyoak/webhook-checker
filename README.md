@@ -1,2 +1,1 @@
-
-fastest webhook checker real
+The Discord Webhook Checker is a Python module that allows you to check if a Discord webhook is valid or not. With this module, you can ensure that your webhooks are working correctly and avoid sending messages to non-existent webhooks.
